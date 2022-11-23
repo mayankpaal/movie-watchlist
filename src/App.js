@@ -8,7 +8,7 @@ import "./App.css";
 import "./lib/font-awesome/css/all.min.css";
 
 import { GlobalProvider } from "./context/GlobalState";
-import Welcome from "./screen/Welcome/welcome";
+import Welcome from "./screens/Welcome/welcome";
 
 function App() {
   return (
